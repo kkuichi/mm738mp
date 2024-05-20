@@ -7,4 +7,4 @@ V prípade použitia je súbory nutné najprv stiahnúť kedže GIT ma problémy
 
 This repository is intended for Python code used in the Bachelor's thesis. The code includes the Pix2Pix model designed for the segmentation of coronal holes and active regions. 
 Despite both codes having the same structure, the code for active regions had to be slightly modified due to weak segmentation results, which persisted even after the modification. 
-In case of use, the files need to be downloaded first, as GIT has problems with .ipynb files.
+In case of use, the files need to be downloaded first, as GIT has problems with .ipynb file.
