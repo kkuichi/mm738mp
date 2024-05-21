@@ -8,5 +8,5 @@ Kódy boli vytvorené v prostredí jupyter notebook, ale je možné ich spustiť
 
 This repository is intended for Python code used in the Bachelor's thesis. The code includes the Pix2Pix model designed for the segmentation of coronal holes and active regions. 
 Despite both codes having the same structure, the code for active regions had to be slightly modified due to weak segmentation results, which persisted even after the modification. 
-In case of use, the files need to be downloaded first, as GIT has problems with .ipynb file. File Pix2Pix_coronal_holes.ipynb consists the code for coronal holes segmentation and file segmentation of Pix2Pix_active_regions.ipynb active regions. 
-The codes were created in jupyter notebook environment, but are able to be executed in any Python-supported environment.
+In case of use, the files need to be downloaded first, as GIT has problems with .ipynb file. File Pix2Pix_coronal_holes.ipynb includes the code for coronal holes segmentation and file Pix2Pix_active_regions.ipynb segmentation of active regions. 
+The codes were created in jupyter notebook environment, but are aexecutable in any Python-supported environment.
